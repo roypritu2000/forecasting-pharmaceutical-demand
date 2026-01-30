@@ -1,6 +1,6 @@
 # Forecasting-pharmaceutical-demand
 
-Undergraduate thesis done under the supervision of Dr. Sultana Parvin. The work is a comparative study of multiple deep learning-based architectures to perform time series analysis of pharmaceutical sales data across a range of drugs.
+Undergraduate thesis done under the supervision of Dr. Sultana Parvin. The work is a comparative study of multiple deep learning-based architectures and ensemble machine learning models to perform time series analysis of pharmaceutical sales data across a range of drugs catgories for model reliability and decision relevance.
 
 # Models Used
 
